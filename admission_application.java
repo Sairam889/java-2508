@@ -37,6 +37,7 @@ public class admission_application {
         System.out.println("Contact Number : " + contactNumber);
 
         System.out.println("Previous School : " + previousSchool);
+        System.out.println("CGPA : " + cgpa);
         System.out.println("Year of passing : " + yearOfPassing);
         System.out.println("Disability : " + disability);
         
